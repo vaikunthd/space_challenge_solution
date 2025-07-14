@@ -1,0 +1,15 @@
+Top 5 Recommended Travel Agents for:
+- Communication Method: Text
+- Lead Source: Organic
+- Destination: Mars
+- Launch Location: Dallas-Fort Worth Launch Complex
+
+---------------------------------------------------------------------------------------------------------------
+| AgentID |    Agent Name    | Success Rate | Avg Revenue | Yrs of Svc | Rating | Profile Match | Final Score |
+---------------------------------------------------------------------------------------------------------------
+|   19    |  Calypso White   |     0.833    |  130000.00  |     11     |  4.7   |      31       |   1.2430    |
+|   27    |   Ronan Young    |     0.765    |  138076.92  |     15     |  4.0   |      32       |   1.2425    |
+|   28    |    Mila Reed     |     0.625    |  169500.00  |      6     |  4.9   |      32       |   1.2230    |
+|    7    |    Mira Patel    |     0.688    |  160454.55  |      4     |  4.5   |      32       |   1.2067    |
+|    9    | Luna Martinez    |     0.500    |  163888.89  |      6     |  4.4   |      34       |   1.1999    |
+---------------------------------------------------------------------------------------------------------------
