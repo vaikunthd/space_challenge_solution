@@ -20,7 +20,7 @@ A final score is calculated using a weighted formula and agents are ranked accor
 - `agent_performance_summary_view.sql`: SQL to create a reusable view summarizing agent performance metrics (assignments, success rate, revenue, etc.)
 - `challenge_solution.sql`: Final query using CTEs to compute and rank agents by performance and similarity to the current customer profile
 - `sample_output.txt`: Example output showing top 5 matched agents for a given customer profile
-- `README.md`: Overview of the problem, your assumptions, method, and run instructions
+- `README.md`: Overview of the problem, my assumptions, method, and run instructions
 
 ## 🛠️ Run Instructions
 1. Import `schema_setup.sql` into your SQLite environment
